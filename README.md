@@ -11,4 +11,4 @@
 * второй такой же
 
 
-[Жми суда](https://www.radiorecord.ru/)
+[Слушаем музаку](https://www.radiorecord.ru "RadioRecord")
