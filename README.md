@@ -20,4 +20,4 @@ git init
 
 
 
-[Слушаем музаку](https://www.radiorecord.ru"RadioRecord")
+[Слушаем музачку](https://www.radiorecord.ru "RadioRecord")
