@@ -11,6 +11,7 @@
 * второй такой же
 
 ### Reading code
+----
 
 ``` mkdir my_project
 cd my_progect
