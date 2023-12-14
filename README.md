@@ -18,6 +18,10 @@
        - если видишь такое сообшение : nothing to commit (create/copy files and use "git add" to track)  то все ок идем дальше
 
   Добавляем файлы в репозиторий
+  ----
+  - Добавляем файлы в репозитрий командой **git add**
+        - например  todo.txt  readme.txt и т.д
+    
          
          
          
