@@ -57,7 +57,7 @@ kirillatabaev@imac git-status-lesson % git commit -m 'Добавить README'
 [main (root-commit) 43e1b7d] Добавить README
  1 file changed, 0 insertions(+), 0 deletions(-)
  create mode 100644 README.md
-kirillatabaev@imac git-status-lesson % ```
+kirillatabaev@imac git-status-lesson % 
     
     
       
