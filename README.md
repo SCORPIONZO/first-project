@@ -42,6 +42,22 @@
 Git — это система контроля версий, которая помогает отслеживать изменения в проекте. Этот инструмент можно использовать как для индивидуальной, так и для командной работы.
 Git позволяет сохранять изменения локально и при необходимости возвращаться к предыдущим версиям проекта. Также можно создать удалённую копию на хостинг-платформе, которая работает с Git, и поделиться результатом с другими. Удачи!!! А вот глубже разобраться тебе поможет вот этот модуль от Яндекса 
 [Жмякай сюда](https://practicum.yandex.ru/git-basics)
+
+
+А вот пример того как выглядит в терминале
+-------
+
+```kirillatabaev@imac Desktop % mkdir git-status-lesson
+kirillatabaev@imac Desktop % cd git-status-lesson 
+kirillatabaev@imac git-status-lesson % git init
+Initialized empty Git repository in /Users/kirillatabaev/Desktop/git-status-lesson/.git/
+kirillatabaev@imac git-status-lesson % touch README.md
+kirillatabaev@imac git-status-lesson % git add README.md 
+kirillatabaev@imac git-status-lesson % git commit -m 'Добавить README'
+[main (root-commit) 43e1b7d] Добавить README
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 README.md
+kirillatabaev@imac git-status-lesson % ```
     
     
       
