@@ -35,6 +35,16 @@
   - команда ввода запроса **git log**
     
        - *команда по умолчанию выводит коммиты в обратном хронологическом порядке*
+   
+  Идем дальше
+  --
+  Хеш — идентификатор коммита
+
+  commit e83c5163316f89bfbde7d9ab23ca2e25604af290 - это хеш
+
+  Получить сокращённый лог можно с помощью команды **git log с флагом --oneline**
+
+  
 
   Подитожим
    -----
@@ -47,17 +57,17 @@ Git позволяет сохранять изменения локально и
 А вот пример того как выглядит в терминале
 -------
 
-```kirillatabaev@imac Desktop % mkdir git-status-lesson
-kirillatabaev@imac Desktop % cd git-status-lesson 
-kirillatabaev@imac git-status-lesson % git init
+Desktop % mkdir git-status-lesson
+Desktop % cd git-status-lesson 
+git-status-lesson % git init
 Initialized empty Git repository in /Users/kirillatabaev/Desktop/git-status-lesson/.git/
-kirillatabaev@imac git-status-lesson % touch README.md
-kirillatabaev@imac git-status-lesson % git add README.md 
-kirillatabaev@imac git-status-lesson % git commit -m 'Добавить README'
+git-status-lesson % touch README.md
+git-status-lesson % git add README.md 
+git-status-lesson % git commit -m 'Добавить README'
 [main (root-commit) 43e1b7d] Добавить README
  1 file changed, 0 insertions(+), 0 deletions(-)
  create mode 100644 README.md
-kirillatabaev@imac git-status-lesson % 
+git-status-lesson % 
     
     
       
